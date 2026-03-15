@@ -1,20 +1,13 @@
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
 
-# העתקת התיקיות (בדיוק לפי השמות ב-GitHub)
-COPY ["Angular Test WebAPI/", "Angular Test WebAPI/"]
-COPY ["BL/", "BL/"]
-COPY ["DL/", "DL/"]
-COPY ["DTO/", "DTO/"]
-
-# הרצת ה-Restore על פרויקט ה-API הראשי
-RUN dotnet restore "Angular Test WebAPI/Angular Test WebAPI .csproj"
-
-# העתקת כל שאר הקבצים
+# העתקת הכל (כמו שעשינו וזה עבד)
 COPY . .
 
-# בנייה של ה-API
-RUN dotnet publish "Angular Test WebAPI/Angular Test WebAPI .csproj" -c Release -o /app/publish
+# במקום לרשום את שם הקובץ, אנחנו נותנים לו את הנתיב לתיקייה. 
+# ה-dotnet build כבר ימצא לבד את ה-csproj שנמצא בפנים.
+RUN dotnet restore "Angular Test WebAPI/"
+RUN dotnet publish "Angular Test WebAPI/" -c Release -o /app/publish
 
 # שלב ההרצה
 FROM mcr.microsoft.com/dotnet/aspnet:6.0
@@ -24,5 +17,5 @@ COPY --from=build /app/publish .
 ENV ASPNETCORE_URLS=http://+:8080
 EXPOSE 8080
 
-# שם ה-DLL שנוצר הוא כשם ה-csproj הראשי
+# הפקודה הזו מריצה את ה-DLL. אם השם של ה-DLL שונה, נראה את זה ב-Log הבא.
 ENTRYPOINT ["dotnet", "Angular Test WebAPI.dll"]
