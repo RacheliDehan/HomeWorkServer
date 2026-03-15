@@ -1,0 +1,24 @@
+C:\מסמכים\רחלי\הוראה\Angular\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\מסמכים\רחלי\הוראה\Angular\DTO\bin\Debug\net6.0\DTO.dll
+C:\מסמכים\רחלי\הוראה\Angular\DTO\bin\Debug\net6.0\DTO.pdb
+C:\מסמכים\רחלי\הוראה\Angular\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\מסמכים\רחלי\הוראה\Angular\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\מסמכים\רחלי\הוראה\Angular\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\מסמכים\רחלי\הוראה\Angular\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\מסמכים\רחלי\הוראה\Angular\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\מסמכים\רחלי\הוראה\Angular\DTO\obj\Debug\net6.0\DTO.dll
+C:\מסמכים\רחלי\הוראה\Angular\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\מסמכים\רחלי\הוראה\Angular\DTO\obj\Debug\net6.0\DTO.pdb
+C:\מסמכים\רחלי\הוראה\Angular\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DTO\bin\Debug\net6.0\DTO.dll
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DTO\bin\Debug\net6.0\DTO.pdb
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DTO\obj\Debug\net6.0\DTO.dll
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DTO\obj\Debug\net6.0\DTO.pdb
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DTO\obj\Debug\net6.0\ref\DTO.dll

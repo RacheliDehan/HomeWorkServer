@@ -1,0 +1,30 @@
+C:\מסמכים\רחלי\הוראה\Angular\DL\bin\Debug\net6.0\DAL.deps.json
+C:\מסמכים\רחלי\הוראה\Angular\DL\bin\Debug\net6.0\DAL.dll
+C:\מסמכים\רחלי\הוראה\Angular\DL\bin\Debug\net6.0\DAL.pdb
+C:\מסמכים\רחלי\הוראה\Angular\DL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\מסמכים\רחלי\הוראה\Angular\DL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\מסמכים\רחלי\הוראה\Angular\DL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\מסמכים\רחלי\הוראה\Angular\DL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\מסמכים\רחלי\הוראה\Angular\DL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\מסמכים\רחלי\הוראה\Angular\DL\obj\Debug\net6.0\DAL.dll
+C:\מסמכים\רחלי\הוראה\Angular\DL\obj\Debug\net6.0\refint\DAL.dll
+C:\מסמכים\רחלי\הוראה\Angular\DL\obj\Debug\net6.0\DAL.pdb
+C:\מסמכים\רחלי\הוראה\Angular\DL\obj\Debug\net6.0\ref\DAL.dll
+C:\מסמכים\רחלי\הוראה\Angular\DL\bin\Debug\net6.0\DTO.dll
+C:\מסמכים\רחלי\הוראה\Angular\DL\bin\Debug\net6.0\DTO.pdb
+C:\מסמכים\רחלי\הוראה\Angular\DL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DL\bin\Debug\net6.0\DAL.deps.json
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DL\bin\Debug\net6.0\DAL.dll
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DL\bin\Debug\net6.0\DAL.pdb
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DL\bin\Debug\net6.0\DTO.dll
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DL\bin\Debug\net6.0\DTO.pdb
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DL\obj\Debug\net6.0\DAL.dll
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DL\obj\Debug\net6.0\refint\DAL.dll
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DL\obj\Debug\net6.0\DAL.pdb
+C:\מסמכים\רחלי\הוראה\Angular\HomeWork- Server\DL\obj\Debug\net6.0\ref\DAL.dll
